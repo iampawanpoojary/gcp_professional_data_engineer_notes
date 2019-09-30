@@ -7,10 +7,8 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20L
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3_hardway.pdf
 
 
-
-
 ## Exam Notes:
-https://github.com/iampawanpoojary/data_engineer_notes/blob/master/data-engineer-certificate-exam-guide.md
+https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Exam%20Strategy.mht
 
 A Professional Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. The Data Engineer designs, builds, maintains, and troubleshoots data processing systems with a particular emphasis on the security, reliability, fault-tolerance, scalability, fidelity, and efficiency of such systems.
 
