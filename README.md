@@ -1,4 +1,16 @@
-# Google - Professional Data Engineer
+# Google - Professional Data Engineer Ultimate Guide
+
+## Ultimate book - Data science on GCP:
+https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20Lakshmanan%20-%20Data%20Science%20on%20the%20Google%20Cloud%20Platform-O%E2%80%99Reilly%20Media%20(2018).epub
+
+## Learn python the hard way:
+https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3_hardway.pdf
+
+
+
+
+## Exam Notes:
+https://github.com/iampawanpoojary/data_engineer_notes/blob/master/data-engineer-certificate-exam-guide.md
 
 A Professional Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. The Data Engineer designs, builds, maintains, and troubleshoots data processing systems with a particular emphasis on the security, reliability, fault-tolerance, scalability, fidelity, and efficiency of such systems.
 
