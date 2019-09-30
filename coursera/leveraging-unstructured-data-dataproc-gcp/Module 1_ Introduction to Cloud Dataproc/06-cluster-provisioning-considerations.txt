@@ -1,0 +1,9 @@
+So what's the problem with running everything on one cluster?
+
+Think about it this way. What happens if you don't have enough computing power on that cluster for the number of jobs that you want to run?
+
+Or conversely, what happens if you have way too much computing power for the active processes that you want to run?
+
+And realize that the same cluster at some times may be too much and at other times it may be too little.
+
+So what you really need to avoid over-provisioning a cluster or under-provisioning a cluster is to dynamically provision that cluster.
