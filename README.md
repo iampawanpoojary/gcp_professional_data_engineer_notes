@@ -16,12 +16,33 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3
 ## updated exam guide must read
 https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
 
+## similar to qwiklabs
+https://codelabs.developers.google.com/cloud/
+
+## community tutorials
+https://cloud.google.com/community/tutorials/
+
+## ready solutions atchitectures
+https://gcp.solutions/
+
+## gcp tutorails really good
+https://cloud.google.com/docs/tutorials#
+
+## notes
+https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3
 
 ## Exam Notes:
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Exam%20Strategy.mht
 
 ## practise questions - paid
 https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-practice-exams/
+
+## youtube
+https://www.youtube.com/watch?v=vJ9OaAqfxo4&list=PLBgogxgQVM9v0xG0QTFQ5PTbNrj8uGSS-
+https://www.youtube.com/user/googlecloudplatform
+
+## other
+https://github.com/ddneves/awesome-gcp-certifications/blob/master/README.md#Google-Cloud---Professional-Data-Engineer
 
 A Professional Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. The Data Engineer designs, builds, maintains, and troubleshoots data processing systems with a particular emphasis on the security, reliability, fault-tolerance, scalability, fidelity, and efficiency of such systems.
 
