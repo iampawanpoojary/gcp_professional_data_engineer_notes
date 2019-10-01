@@ -13,6 +13,9 @@ https://grumpygrace.dev/posts/gcp-flowcharts/
 ## Learn python the hard way:
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3_hardway.pdf
 
+## updated exam guide must read
+https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
+
 
 ## Exam Notes:
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Exam%20Strategy.mht
