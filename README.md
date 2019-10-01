@@ -6,6 +6,9 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20L
 ## Holy grail of resources:
 https://interactive.linuxacademy.com/diagrams/TheDataDossier.html
 
+## Flowcharts
+https://grumpygrace.dev/posts/gcp-flowcharts/
+
 
 ## Learn python the hard way:
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3_hardway.pdf
