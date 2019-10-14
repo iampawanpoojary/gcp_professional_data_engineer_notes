@@ -6,6 +6,9 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20L
 ## Holy grail of resources:
 https://interactive.linuxacademy.com/diagrams/TheDataDossier.html
 
+## notes 
+https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0
+
 ## Flowcharts
 https://grumpygrace.dev/posts/gcp-flowcharts/
 
