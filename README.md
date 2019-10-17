@@ -8,6 +8,7 @@ https://interactive.linuxacademy.com/diagrams/TheDataDossier.html
 
 ## notes 
 https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0
+https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
 
 ## Flowcharts
 https://grumpygrace.dev/posts/gcp-flowcharts/
