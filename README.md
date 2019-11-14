@@ -9,6 +9,10 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20L
 ## Holy grail of resources:
 https://interactive.linuxacademy.com/diagrams/TheDataDossier.html
 
+## flash cards:
+https://www.brainscape.com/packs/gcp-data-engineer-10458197
+https://medium.com/@samuel.lee753/free-flash-cards-practise-exams-for-getting-google-cloud-certified-ec206c398b4a
+
 ## notes 
 https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0
 https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
