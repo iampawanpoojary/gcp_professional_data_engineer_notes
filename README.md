@@ -6,6 +6,9 @@ https://www.dataneb.com/post/how-to-get-google-cloud-professional-data-engineer-
 ## Ultimate book - Data science on GCP - ULTRA INSTINCT!:
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20Lakshmanan%20-%20Data%20Science%20on%20the%20Google%20Cloud%20Platform-O%E2%80%99Reilly%20Media%20(2018).epub
 
+## Machine learning crash course (for ml questions in exam)
+https://developers.google.com/machine-learning/crash-course/ml-intro
+
 ## Holy grail of resources:
 https://interactive.linuxacademy.com/diagrams/TheDataDossier.html
 
