@@ -28,6 +28,7 @@ https://grumpygrace.dev/posts/gcp-flowcharts/
 https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3_hardway.pdf
 
 ## updated exam guide must read
+https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47
 https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
 
 ## similar to qwiklabs
