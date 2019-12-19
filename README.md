@@ -30,6 +30,7 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/learn_python3
 ## updated exam guide must read
 https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47
 https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
+https://medium.com/nooblearning/2019-google-cloud-professional-data-engineer-certification-exam-6a5d6581e507
 
 ## similar to qwiklabs
 https://codelabs.developers.google.com/cloud/
