@@ -9,6 +9,9 @@ https://github.com/iampawanpoojary/data_engineer_notes/blob/master/Valliappa%20L
 ## Machine learning crash course (for ml questions in exam)
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
+## Tensorflow 2.0 crash course
+https://www.youtube.com/watch?v=6g4O5UOH304
+
 ## Holy grail of resources:
 https://interactive.linuxacademy.com/diagrams/TheDataDossier.html
 
