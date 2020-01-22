@@ -3,6 +3,9 @@
 ## Start with this if information overload:
 https://www.dataneb.com/post/how-to-get-google-cloud-professional-data-engineer-certification-exam
 
+## practise exam free
+https://vceguide.com/google/professional-data-engineer-professional-data-engineer-on-google-cloud-platform/
+
 ## Collection of useful flowcharts
 https://grumpygrace.dev/posts/gcp-flowcharts/#compute
 
