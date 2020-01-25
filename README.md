@@ -6,6 +6,12 @@ https://www.dataneb.com/post/how-to-get-google-cloud-professional-data-engineer-
 ## practise exam free
 https://vceguide.com/google/professional-data-engineer-professional-data-engineer-on-google-cloud-platform/
 
+## Data dossier - Data engineer
+https://www.lucidchart.com/documents/view/0ca44a63-4ea4-4d78-8367-2465512d21be/5CetVcvv3YSZ
+
+## Data Dossier - Stackdriver
+https://interactive.linuxacademy.com/diagrams/StackdriverDeepDive.html
+
 ## Collection of useful flowcharts
 https://grumpygrace.dev/posts/gcp-flowcharts/#compute
 
