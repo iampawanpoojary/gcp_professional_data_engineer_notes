@@ -1,10 +1,12 @@
 # Google - Professional Data Engineer Ultimate Guide
 
+## Go through the study guide and create create a list of topics to study
+(create your own list as the syllabus changes all the time), 
+here is my list:
+https://www.evernote.com/shard/s221/sh/596f8cb0-6f74-446a-9410-ebd5818dcbaf/f70b251b3484a2355a6b7deda04b1605
+
 ## Start with this if information overload:
 https://www.dataneb.com/post/how-to-get-google-cloud-professional-data-engineer-certification-exam
-
-## practise exam free
-https://vceguide.com/google/professional-data-engineer-professional-data-engineer-on-google-cloud-platform/
 
 ## Data dossier - Data engineer
 https://www.lucidchart.com/documents/view/0ca44a63-4ea4-4d78-8367-2465512d21be/5CetVcvv3YSZ
